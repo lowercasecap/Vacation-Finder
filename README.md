@@ -1,6 +1,3 @@
-# Vacation-Finder
-This application scrapes data from various sources, stores it in a MySQL database, and provides a user-friendly interface to help you discover the lowest prices for your travel needs.
-
 Travel Bargain Finder
 Welcome to Travel Bargain Finder, your go-to application for finding the best deals on cruises, hotels, and flights. This application scrapes data from various sources, stores it in a MySQL database, and provides a user-friendly interface to help you discover the lowest prices for your travel needs.
 
