@@ -1,0 +1,20 @@
+/*COLORS
+WHITE: #F9FCFD
+TEAL: 07A4B5
+SAND: FED8A7
+*/
+body{
+    background-color: #C9EFF9;
+}
+
+h3{
+    color: #07A4B5;
+}
+
+/*Refresh button*/
+button{
+    background-color: #07A4B5;
+    border-color: #07A4B5;
+    color: #FED8A7;
+    border-radius: 100px;
+}
